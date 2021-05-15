@@ -1,1 +1,1 @@
-# slate-detached-sigs
+# bytz-detached-sigs
